@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">ADM MURIBA VPN SIMPLES</string>
+
+    <!-- Estados -->
+    <string name="status_connected">CONECTADO</string>
+    <string name="status_disconnected">DESCONECTADO</string>
+    <string name="status_connecting">A CONECTAR</string>
+    <string name="status_reconnecting">A RECONECTAR</string>
+
+    <!-- Ações Principais -->
+    <string name="action_connect">LIGAR</string>
+    <string name="action_disconnect">DESLIGAR</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_select">Selecionar</string>
+    <string name="action_edit">Editar</string>
+    <string name="action_delete">Apagar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_test">Testar</string>
+
+    <!-- Menu dos Três Pontinhos -->
+    <string name="menu_settings">Configurações</string>
+    <string name="menu_saved_servers">Servidores guardados</string>
+    <string name="menu_adblock">AdBlock</string>
+    <string name="menu_dns">DNS</string>
+    <string name="menu_auto_reconnect">Auto Reconectar</string>
+    <string name="menu_keep_alive">Manter Conectado</string>
+    <string name="menu_kill_switch">Kill Switch</string>
+    <string name="menu_logs">Registos de conexão</string>
+    <string name="menu_test_server">Testar servidor</string>
+    <string name="menu_about">Sobre ADM MURIBA VPN</string>
+
+    <!-- Notificações -->
+    <string name="notification_channel_name">Estado da VPN</string>
+    <string name="notification_channel_desc">Mostra o estado da ligação e velocidade do túnel VPN</string>
+    <string name="muriba_mc_title">MURIBA MC</string>
+</resources>

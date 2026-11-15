@@ -1,0 +1,6 @@
+{
+  "name": "ADM MURIBA VPN SIMPLES",
+  "description": "Aplicação VPN Android real com Motor V4, túneis SSH/TLS/SNI, Kill Switch e AdBlock Ultra multi-camada (DNS, TLS SNI, HTTP Host e Anti-DoH/DoT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,6 @@
+-keepattributes SourceFile,LineNumberTable
+-keep class com.jcraft.jsch.** { *; }
+-dontwarn com.jcraft.jsch.**
+-dontwarn java.lang.management.**
+-keepattributes *Annotation*, InnerClasses
+-dontnote kotlinx.serialization.AnnotationsKt

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ADM MURIBA VPN SIMPLES</string>
+    <string name="app_name">MURIBA TURBO MAX</string>
 
     <!-- Estados -->
     <string name="status_connected">CONECTADO</string>
@@ -27,10 +27,10 @@
     <string name="menu_kill_switch">Kill Switch</string>
     <string name="menu_logs">Registos de conexão</string>
     <string name="menu_test_server">Testar servidor</string>
-    <string name="menu_about">Sobre ADM MURIBA VPN</string>
+    <string name="menu_about">Sobre MURIBA TURBO MAX</string>
 
     <!-- Notificações -->
     <string name="notification_channel_name">Estado da VPN</string>
-    <string name="notification_channel_desc">Mostra o estado da ligação e velocidade do túnel VPN</string>
-    <string name="muriba_mc_title">MURIBA MC</string>
+    <string name="notification_channel_desc">Mostra o estado da ligação e velocidade real do túnel VPN</string>
+    <string name="muriba_mc_title">MURIBA TURBO MAX</string>
 </resources>
